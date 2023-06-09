@@ -1,0 +1,101 @@
+.imagen-logotipo{
+    width: 150px;
+
+}
+.body{background-color:#ebebeb;}
+.compras-en-cuotas{text-align: center; font-weight: 300;
+
+    font-size: 17px;}
+
+.imagen-mc{width: 200px;}
+
+.img-samsung{width: 200px;}
+
+.img-cafe{width: 200px;}
+
+.img-tv{width: 200px;}
+ body {font-family: 'Roboto', sans-serif;}
+
+ .barra{font-size: 12px;}
+
+ .precio{font-size: 18px;} 
+
+ .descuento{font-size: 16px;}
+
+ .descripcion{font-size: 16px;}
+
+ .visitas{font-size: 17px;}
+ 
+ 
+
+ .texto{font-size: 12px;}
+ .boton{background-color: #03264c;
+color: #fff;
+display:block;
+max-width: 50px;
+padding:15px 0;
+border-radius: 7px;
+text-align: center;
+font-size: 17px;
+margin:auto;}
+
+.barra.ofertas{list-style: none;
+margin: 0; 
+padding: 0%;}
+.header-main ul{list-style: none;
+margin: 0;
+padding: 0%;
+display:inline-block;
+padding: 5%;
+font-size: 17px;
+color:#222222}
+.header-main{background-color:#eac926;
+padding:10px;}    
+.header-bajo{display: none;}
+.main-principal ul{list-style: none;
+background-color: white;}
+
+.texto{opacity:0.7;
+    text-align: center;
+    font-size: 12px;
+}
+.texto p{text-align: center;}
+
+.texto i {font-size: 15px;
+margin-bottom: 10px;
+color: #03264C;}
+
+.t7{opacity: 0.4;}
+
+.main-principal img{border-bottom: solid 1px #dedad9;
+margin-bottom: 10 px;}
+
+.descuento{color: #39b54a;}
+.main-principal{ padding: 15px;
+text-align: center;}
+
+.logo-buscador{position:relative;}
+
+.barra{ position: relative;
+left: 180px;
+bottom: 30px;
+width: 40%;
+font-size: 15px;
+}
+.boton-bar{
+    position: relative;
+left:180px;
+bottom: 30px;
+font-size: 15px;
+opacity: 0.8;}
+
+.p1{text-align: center;}
+
+.banner{ width: 100%;
+}
+.main-arriba{ margin: 10px;
+padding: 20px;
+}
+
+.main-abajo{margin:10px;
+padding: 20px;}
